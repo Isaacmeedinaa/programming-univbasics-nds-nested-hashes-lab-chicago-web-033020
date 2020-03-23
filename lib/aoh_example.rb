@@ -28,6 +28,8 @@ def literal_aoh
     KATE_G,
     BRUCE_G
   ]
+  
+  single_array[0][:name]
 end
 
 def aoh_lookup(aoh, row, key)
