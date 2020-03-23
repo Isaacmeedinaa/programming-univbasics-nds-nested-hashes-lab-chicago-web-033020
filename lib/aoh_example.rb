@@ -29,7 +29,7 @@ def literal_aoh
     BRUCE_G
   ]
   
-  single_array[0][:name]
+  single_array[0]
 end
 
 def aoh_lookup(aoh, row, key)
